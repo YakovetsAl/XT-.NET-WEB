@@ -1,0 +1,6 @@
+C:\Users\Яковец\Documents\Visual Studio 2015\Projects\XT EPAM 2019 Yakovets\Task 01\bin\Debug\Task 01.exe.config
+C:\Users\Яковец\Documents\Visual Studio 2015\Projects\XT EPAM 2019 Yakovets\Task 01\bin\Debug\Task 01.exe
+C:\Users\Яковец\Documents\Visual Studio 2015\Projects\XT EPAM 2019 Yakovets\Task 01\bin\Debug\Task 01.pdb
+C:\Users\Яковец\Documents\Visual Studio 2015\Projects\XT EPAM 2019 Yakovets\Task 01\obj\Debug\Task 01.exe
+C:\Users\Яковец\Documents\Visual Studio 2015\Projects\XT EPAM 2019 Yakovets\Task 01\obj\Debug\Task 01.pdb
+C:\Users\Яковец\Documents\Visual Studio 2015\Projects\XT EPAM 2019 Yakovets\Task 01\obj\Debug\Task 01.csprojResolveAssemblyReference.cache
